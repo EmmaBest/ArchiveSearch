@@ -8,3 +8,4 @@ Configuration files for pre-existing browser plugins to let you right click on t
 *Known Issues*
 
 * Users may have to click "run search" on the Mary Ferrell page to execute the search. The search term will be automatically input.
+* Searches do not use exact phrase markers, and the option isn't present.
