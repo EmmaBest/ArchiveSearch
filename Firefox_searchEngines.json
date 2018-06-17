@@ -59,7 +59,7 @@
     "url": "https://archive.org/details/nationalsecurityarchive?and%5B%5D=",
     "show": true
   },
-  "document-cloud": {
+  "documentcloud": {
     "index": 7,
     "name": "DocumentCloud",
     "keyword": "DC",
