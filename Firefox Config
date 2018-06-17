@@ -1,0 +1,9 @@
+Installation and configuration instructions:
+
+Step 1: Install the Context Search plugin. As of June 17, 2018 it can be found at https://addons.mozilla.org/en-US/firefox/addon/contextual-search/
+
+Step 2: Download the JSON configuration file from https://github.com/EmmaBest/ArchiveSearch/blob/master/Firefox_searchEngines.json
+
+Step 3: Click Tools > Add-ons, then click Preferences. Go to "Import JSON from local disk" and select the Firefox_searchEngines.json file.
+
+Step 4: Highlight text in the browser, right click and open the menu labeled "Context Search" then select which archive you want to search - or all of them! The window(s) will automatically open in a new tab.
