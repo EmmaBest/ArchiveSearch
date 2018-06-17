@@ -67,8 +67,16 @@
     "url": "https://www.documentcloud.org/public/search/",
     "show": true
   },
-  ".gov's": {
+  "foia.gov": {
     "index": 8,
+    "name": "FOIA.gov",
+    "keyword": "FG",
+    "multitab": false,
+    "url": "https://search.foia.gov/search?utf8=%E2%9C%93&m=true&affiliate=foia.gov&query=",
+    "show": true
+  },
+  ".gov's": {
+    "index": 9,
     "name": ".Gov's",
     "keyword": "DG",
     "multitab": false,
@@ -76,7 +84,7 @@
     "show": true
   },
   "hathi-trust": {
-    "index": 9,
+    "index": 10,
     "name": "Hathi Trust",
     "keyword": "HT",
     "multitab": false,
