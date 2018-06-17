@@ -4,7 +4,7 @@ Step 1: Install the Simple = Select + Search plugin. As of June 17, 2018 it can 
 
 Step 2: Select the plugin on chrome://extensions/, then click Extension Options
 
-Step 3: Go to Import/Export Config, and copy and paste the following text into the field before clicking Import:
+Step 3: Go to Import/Export Config, clear the field and then and copy and paste the following text before clicking Import:
 
 {"newTab":true,"newTabSelected":true,"newTabPosition":"Last","trackGA":true,"searchEverywhere":true,"searchEverywhereGroups":true,"searchEngines":[{"name":"MuckRock","url":"https://www.muckrock.com/search/?q=%s","incognito":false,"group":"","plus":false,"$$hashKey":"object:162"},{"name":"FBI","url":"https://vault.fbi.gov/search?SearchableText=%s","incognito":false,"group":""},{"name":"CIA","url":"https://www.cia.gov/library/readingroom/advanced-search-view?keyword=%s","incognito":false,"group":""},{"name":"Mary Ferrell","url":"https://maryferrell.org/search.html?q=%s","incognito":false,"group":""},{"name":"NSIA","url":"https://archive.org/details/nationalsecurityarchive?and%5B%5D=%s","incognito":false,"group":""},{"name":"Document Cloud","url":"https://www.documentcloud.org/public/search/%s","incognito":false,"group":""},{"name":"NARA","url":"https://catalog.archives.gov/search?q=%s&rows=20","incognito":false,"$$hashKey":"object:163","group":""},{"name":".Gov's","url":"https://www.google.com/search?q=site%3A.gov+%s","incognito":false,"group":""},{"name":"Hathi Trust","url":"https://catalog.hathitrust.org/Search/Home?lookfor=%s","incognito":false,"group":""},{"name":null,"url":null,"incognito":false}]}
 
